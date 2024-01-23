@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1636567922 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"menu.h"
+	"etlap.h"
+
+1637940720 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\menu.h
+	<stdbool.h>
+	"asztalok.h"
+	"etlap.h"
+
+1638094310 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"etlap.h"
+	"asztalok.h"
+	"debugmalloc.h"
+
+1637865590 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\etlap.h
+	"stdbool.h"
+
+1638097076 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\etterem.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"menu.h"
+	"etlap.h"
+	"asztalok.h"
+	"debugmalloc.h"
+	"fajlkezeles.h"
+
+1636575631 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\etlap_kezeles.c
+	<stdio.h>
+	"etlap.h"
+
+1638128736 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\etlap.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"etlap.h"
+	"menu.h"
+	"debugmalloc.h"
+
+1636122008 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1638096995 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\asztalok.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"asztalok.h"
+	"menu.h"
+	"etlap.h"
+	"debugmalloc.h"
+
+1638097096 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\asztalok.h
+	<stdbool.h>
+	"etlap.h"
+
+1638097421 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\fajlkezeles.h
+
+1638127658 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\etterem\fajlkezeles.c
+	<stdio.h>
+	<stdlib.h>
+	"etlap.h"
+	"asztalok.h"
+	"debugmalloc.h"
+
+1638096995 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\asztalok.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"asztalok.h"
+	"menu.h"
+	"etlap.h"
+	"debugmalloc.h"
+
+1638097096 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\asztalok.h
+	<stdbool.h>
+	"etlap.h"
+
+1637865590 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\etlap.h
+	"stdbool.h"
+
+1637940720 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\menu.h
+	<stdbool.h>
+	"asztalok.h"
+	"etlap.h"
+
+1636122008 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1638128736 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\etlap.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"etlap.h"
+	"menu.h"
+	"debugmalloc.h"
+
+1638097076 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\etterem.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"menu.h"
+	"etlap.h"
+	"asztalok.h"
+	"debugmalloc.h"
+	"fajlkezeles.h"
+
+1638097421 c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\fajlkezeles.h
+
+1638127658 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\fajlkezeles.c
+	<stdio.h>
+	<stdlib.h>
+	"etlap.h"
+	"asztalok.h"
+	"debugmalloc.h"
+
+1638094310 source:c:\users\pisti\desktop\codeblocks\!nagyh¡zi\!etterem\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"etlap.h"
+	"asztalok.h"
+	"debugmalloc.h"
+
+1638100595 source:c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\asztalok.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"asztalok.h"
+	"menu.h"
+	"etlap.h"
+	"debugmalloc.h"
+
+1638100696 c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\asztalok.h
+	<stdbool.h>
+	"etlap.h"
+
+1637869190 c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\etlap.h
+	"stdbool.h"
+
+1637944320 c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\menu.h
+	<stdbool.h>
+	"asztalok.h"
+	"etlap.h"
+
+1636125608 c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1638132336 source:c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\etlap.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"etlap.h"
+	"menu.h"
+	"debugmalloc.h"
+
+1638100676 source:c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\etterem.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"menu.h"
+	"etlap.h"
+	"asztalok.h"
+	"debugmalloc.h"
+	"fajlkezeles.h"
+
+1638101021 c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\fajlkezeles.h
+
+1638131258 source:c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\fajlkezeles.c
+	<stdio.h>
+	<stdlib.h>
+	"etlap.h"
+	"asztalok.h"
+	"debugmalloc.h"
+
+1638097910 source:c:\users\pisti\desktop\codeblocks\c\!nagyh¡zi\!etterem\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"etlap.h"
+	"asztalok.h"
+	"debugmalloc.h"
+
